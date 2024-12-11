@@ -22,7 +22,7 @@ Welcome to **TodoApp**, a clean and simple to-do list app built using **React**.
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
-- **CSS**: Styling for the app's layout and design.
+- **Tailwind-CSS**: Styling for the app's layout and design.
 
 
 
